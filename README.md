@@ -15,6 +15,7 @@ IPADownNext helps you search the App Store, browse available versions, download 
 - **Switch Apple accounts** — Manage multiple accounts and return to your last selected account when you reopen the app.
 - **Transfer to your phone** — Share IPA files with devices on the same local network using a QR code.
 - **Choose your language** — Use English, Simplified Chinese, or follow your Windows display language. Your language and store-region choices are remembered.
+- **First-time lookup guidance** — See when Apple components are being prepared and why the first version-history lookup may take longer.
 
 ## Download
 
@@ -62,6 +63,7 @@ IPADownNext 帮助你搜索 App Store 应用、浏览可用的历史版本、使
 - **切换 Apple 账号**：管理多个账号，重新打开程序时恢复上次选择。
 - **传输到手机**：通过二维码，将 IPA 文件分享给同一局域网内的设备。
 - **选择界面语言**：支持简体中文、English 或跟随 Windows 显示语言，并记住语言和商店地区选择。
+- **首次查询提示**：显示 Apple 组件准备状态，说明首次查询历史版本可能需要更长时间。
 
 ### 下载
 
@@ -91,3 +93,4 @@ IPADownNext 帮助你搜索 App Store 应用、浏览可用的历史版本、使
 遇到问题或有使用建议，请[提交反馈](https://github.com/qishouvip/IPADownNext-Releases/issues)，附上软件版本、操作步骤和错误信息。请勿提供密码、验证码或账号会话文件。
 
 **开发者：** Alexander Chen · **联系邮箱：** qishouvip@gmail.com
+
