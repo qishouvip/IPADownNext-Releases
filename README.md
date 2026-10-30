@@ -17,6 +17,31 @@ IPADownNext helps you search the App Store, browse available versions, download 
 - **Choose your language** — Use English, Simplified Chinese, or follow your Windows display language. Your language and store-region choices are remembered.
 - **First-time lookup guidance** — See when Apple components are being prepared and why the first version-history lookup may take longer.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/app-search.png"><img src="screenshots/app-search.png" alt="App Search showing App Store results by name and storefront" width="100%"></a>
+      <p><strong>App Search · 软件搜索</strong><br>Search by app name or App Store ID and choose a storefront.<br>按应用名称或 App Store ID 搜索，并选择商店地区。</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/version-history.png"><img src="screenshots/version-history.png" alt="Version History showing available app versions and details" width="100%"></a>
+      <p><strong>Version History · 历史版本</strong><br>Review available versions, release dates, sizes, and minimum iOS requirements.<br>查看可用版本、发布日期、文件大小和最低 iOS 要求。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/downloads.png"><img src="screenshots/downloads.png" alt="Downloads showing completed and in-progress tasks" width="100%"></a>
+      <p><strong>Downloads · 下载任务</strong><br>Track download progress and open completed files or manage active tasks.<br>查看下载进度，打开已完成文件并管理进行中的任务。</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/device-transfer.png"><img src="screenshots/device-transfer.png" alt="Device Transfer for choosing an IPA file and local network" width="100%"></a>
+      <p><strong>Device Transfer · 设备传输</strong><br>Choose an IPA file and local network to prepare a device transfer.<br>选择 IPA 文件和局域网，准备向设备传输。</p>
+    </td>
+  </tr>
+</table>
+
 ## Download
 
 **Windows x64** · [Download the latest version](https://github.com/qishouvip/IPADownNext-Releases/releases/latest)
